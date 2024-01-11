@@ -1,1 +1,1 @@
-# AMPs-Natural-Products-Discovery
+# AMPidentifier 2.0
